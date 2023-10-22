@@ -1,2 +1,4 @@
 # opencvPython
-using opencv in python environments for image processing
+Opencv in python environments for image processing
+
+This consists of my works using opencv for image manipulation and automated augmentation
